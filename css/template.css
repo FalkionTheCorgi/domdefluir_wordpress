@@ -34,6 +34,11 @@ h4{ font-size: 18px; margin-top: 0; }
 .main-menu ul li:last-child{ margin: 0; }
 .main-menu ul li a{ text-transform: uppercase; color: #4c1b1b; text-decoration: none;}
 .main-menu ul  li.current-menu-item a{ color:#e58888; }
+
+ul#mega-menu-my_main_menu { background-color: white!important; }
+li.mega-menu-item { color: black!important; }
+
+
 #search-menu{ margin-top: 1%; }
 .search label { display: none; }
 
